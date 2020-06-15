@@ -19,6 +19,8 @@ Table of Contents
 * [Directory Structure](#directory-structure)
 * [Licensing](#licensing)
 
+[Test](#../wiki)
+
 ---
 
 What is openpilot?
